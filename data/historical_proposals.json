@@ -224,5 +224,38 @@
     "approach": "Real-time production monitoring with automated alerts and analytics.",
     "outcome": "won",
     "lessons": "Connecting each technical feature to reduced downtime and operational visibility improved the proposal."
+  },
+  {
+    "proposal_id": null,
+    "client": "Apex Health Network",
+    "project": "Clinical Portal Modernization",
+    "industry": "Healthcare",
+    "outcome": "won",
+    "lessons": "Proving HIPAA audit logs and naming the security lead in section 4 gave evaluators total confidence.",
+    "approach": "Phased security rollout with early clinical pilot",
+    "requirements": [],
+    "id": "PROP-016"
+  },
+  {
+    "proposal_id": null,
+    "client": "Test Health Corp",
+    "project": "Telehealth Platform",
+    "industry": "Healthcare",
+    "outcome": "won",
+    "lessons": "Early pilot phase convinced the medical director.",
+    "approach": "Phased rollout with clinical review",
+    "requirements": [],
+    "id": "PROP-017"
+  },
+  {
+    "proposal_id": null,
+    "client": "Test Health Corp",
+    "project": "Telehealth Platform",
+    "industry": "Healthcare",
+    "outcome": "won",
+    "lessons": "Early pilot phase convinced the medical director.",
+    "approach": "Phased rollout with clinical review",
+    "requirements": [],
+    "id": "PROP-018"
   }
 ]
