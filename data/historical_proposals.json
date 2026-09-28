@@ -1,0 +1,228 @@
+[
+  {
+    "id": "PROP-001",
+    "client": "NorthStar Health",
+    "industry": "Healthcare",
+    "project": "Patient Engagement Portal",
+    "requirements": [
+      "EHR integration",
+      "Patient messaging",
+      "Appointment management",
+      "Role-based access",
+      "HIPAA-aligned security"
+    ],
+    "approach": "Phased implementation with a healthcare security review and an early pilot.",
+    "outcome": "won",
+    "lessons": "Healthcare buyers responded strongly to explicit security ownership, a clear pilot phase, and relevant healthcare experience."
+  },
+  {
+    "id": "PROP-002",
+    "client": "CivicWorks",
+    "industry": "Government",
+    "project": "Citizen Services Platform",
+    "requirements": [
+      "Accessibility",
+      "Authentication",
+      "Cloud deployment",
+      "Citizen portal"
+    ],
+    "approach": "Generic web modernization proposal.",
+    "outcome": "lost",
+    "lessons": "Generic compliance language and insufficient accessibility evidence weakened the proposal."
+  },
+  {
+    "id": "PROP-003",
+    "client": "MedAxis Clinics",
+    "industry": "Healthcare",
+    "project": "Clinical Appointment Platform",
+    "requirements": [
+      "Appointment scheduling",
+      "Patient notifications",
+      "EHR API integration",
+      "Security"
+    ],
+    "approach": "API-first architecture with phased rollout and security validation.",
+    "outcome": "won",
+    "lessons": "Clear integration architecture and a phased rollout increased buyer confidence."
+  },
+  {
+    "id": "PROP-004",
+    "client": "FinCore Bank",
+    "industry": "Banking",
+    "project": "Customer Service Portal",
+    "requirements": [
+      "Secure authentication",
+      "Customer dashboard",
+      "API integration",
+      "Audit logging"
+    ],
+    "approach": "Security-first architecture with strong audit controls.",
+    "outcome": "won",
+    "lessons": "Financial clients valued concrete security controls, auditability, and clearly defined ownership."
+  },
+  {
+    "id": "PROP-005",
+    "client": "BrightRetail",
+    "industry": "Retail",
+    "project": "Customer Analytics Platform",
+    "requirements": [
+      "Analytics dashboard",
+      "Customer segmentation",
+      "Cloud deployment",
+      "Data integration"
+    ],
+    "approach": "Analytics dashboard with cloud-based data processing.",
+    "outcome": "won",
+    "lessons": "Proposals performed better when measurable business outcomes were connected to each technical feature."
+  },
+  {
+    "id": "PROP-006",
+    "client": "MetroLogix",
+    "industry": "Logistics",
+    "project": "Fleet Management System",
+    "requirements": [
+      "GPS tracking",
+      "Fleet dashboard",
+      "Notifications",
+      "Analytics"
+    ],
+    "approach": "Real-time tracking platform with analytics and automated alerts.",
+    "outcome": "lost",
+    "lessons": "The proposal focused too heavily on features and did not clearly explain implementation risks or measurable ROI."
+  },
+  {
+    "id": "PROP-007",
+    "client": "EduSphere",
+    "industry": "Education",
+    "project": "Learning Management Platform",
+    "requirements": [
+      "Student portal",
+      "Teacher dashboard",
+      "Authentication",
+      "Analytics"
+    ],
+    "approach": "Role-based platform with separate student and teacher workflows.",
+    "outcome": "won",
+    "lessons": "Clearly separating user roles and showing realistic user workflows made the proposal easier to evaluate."
+  },
+  {
+    "id": "PROP-008",
+    "client": "GreenGrid Energy",
+    "industry": "Energy",
+    "project": "Energy Monitoring Platform",
+    "requirements": [
+      "IoT integration",
+      "Real-time monitoring",
+      "Analytics",
+      "Cloud infrastructure"
+    ],
+    "approach": "Cloud-based monitoring system with real-time dashboards.",
+    "outcome": "won",
+    "lessons": "Technical architecture was more convincing when paired with a clear implementation timeline and operational benefits."
+  },
+  {
+    "id": "PROP-009",
+    "client": "UrbanConnect",
+    "industry": "Government",
+    "project": "Smart City Citizen Portal",
+    "requirements": [
+      "Accessibility",
+      "Citizen authentication",
+      "Service requests",
+      "Mobile support"
+    ],
+    "approach": "Citizen portal with responsive web design and authentication.",
+    "outcome": "lost",
+    "lessons": "Accessibility requirements were mentioned but not supported with enough concrete implementation evidence."
+  },
+  {
+    "id": "PROP-010",
+    "client": "CarePlus Hospitals",
+    "industry": "Healthcare",
+    "project": "Patient Communication Platform",
+    "requirements": [
+      "Secure messaging",
+      "Appointment reminders",
+      "Patient authentication",
+      "Healthcare integrations"
+    ],
+    "approach": "Secure communication platform with phased deployment and integration testing.",
+    "outcome": "won",
+    "lessons": "Healthcare proposals benefited from explicit privacy controls, integration plans, and measurable rollout milestones."
+  },
+  {
+    "id": "PROP-011",
+    "client": "AeroFleet",
+    "industry": "Transportation",
+    "project": "Operations Dashboard",
+    "requirements": [
+      "Real-time dashboard",
+      "Data integration",
+      "Alerts",
+      "Reporting"
+    ],
+    "approach": "Centralized operations dashboard with automated alerts.",
+    "outcome": "won",
+    "lessons": "Decision makers responded well to concise dashboards tied directly to operational KPIs."
+  },
+  {
+    "id": "PROP-012",
+    "client": "SecureTrust Insurance",
+    "industry": "Insurance",
+    "project": "Claims Management Platform",
+    "requirements": [
+      "Claims workflow",
+      "Document management",
+      "Authentication",
+      "Audit logs"
+    ],
+    "approach": "Workflow-driven claims platform with role-based access and audit logging.",
+    "outcome": "won",
+    "lessons": "Showing the complete workflow from submission to approval made the solution easier for business stakeholders to understand."
+  },
+  {
+    "id": "PROP-013",
+    "client": "ShopSphere",
+    "industry": "E-commerce",
+    "project": "Recommendation Engine",
+    "requirements": [
+      "Product recommendations",
+      "Customer analytics",
+      "API integration",
+      "Scalability"
+    ],
+    "approach": "ML-powered recommendation service integrated through APIs.",
+    "outcome": "lost",
+    "lessons": "The proposal made technical claims without enough evidence explaining expected business impact."
+  },
+  {
+    "id": "PROP-014",
+    "client": "PrimeCare Medical",
+    "industry": "Healthcare",
+    "project": "Healthcare Data Platform",
+    "requirements": [
+      "Secure data storage",
+      "EHR integration",
+      "Analytics",
+      "Role-based access"
+    ],
+    "approach": "Secure data platform with staged integration and validation.",
+    "outcome": "won",
+    "lessons": "Healthcare buyers preferred proposals that explicitly mapped security controls to individual requirements."
+  },
+  {
+    "id": "PROP-015",
+    "client": "NovaManufacturing",
+    "industry": "Manufacturing",
+    "project": "Production Monitoring System",
+    "requirements": [
+      "IoT integration",
+      "Production dashboard",
+      "Alerts",
+      "Analytics"
+    ],
+    "approach": "Real-time production monitoring with automated alerts and analytics.",
+    "outcome": "won",
+    "lessons": "Connecting each technical feature to reduced downtime and operational visibility improved the proposal."
+  }
+]
